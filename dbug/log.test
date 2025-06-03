@@ -1,0 +1,13 @@
+ reading Au.SG15.PBE.UPF
+ line          104
+<PP_R type="real"  size="1278" columns="8">
+ found nrr=        1278
+ found rr_col=           8
+ maxval rr   12.7700000000000     
+ line         3900
+<PP_RHOATOM type="real"  size="1278" columns="4">
+ found nrr=        1278
+ found rr_col=           4
+ maxval rho0   14.5343445400000     
+ rho0  0.000000000000000E+000
+ a0   1.00000000000000     
